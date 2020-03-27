@@ -1,0 +1,31 @@
+{
+  "name": "myline",
+  "version": "0.0.1",
+  "description": "Prototipo parecido a myLine",
+  "main": "start.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisft25/myline.git"
+  },
+  "keywords": [
+    "google assistant"
+  ],
+  "author": "Christopher Fuentes",
+  "license": "MIT",
+  "homepage": "https://github.com/chrisft25/myline.git",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "google-auth-library": "0.10.0",
+    "grpc": "^1.24.2",
+    "mkdirp": "^0.5.1",
+    "open": "^6.4.0",
+    "protobufjs": "^6.8.8"
+  },
+  "devDependencies": {
+    "express": "^4.17.1",
+    "node-record-lpcm16": "git+https://github.com/endoplasmic/node-record-lpcm16.git"
+  }
+}
