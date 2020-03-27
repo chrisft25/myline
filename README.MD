@@ -18,7 +18,7 @@ Instalar todas las dependencias.
 $ npm install
 ```
 
-Colocar el archivo con las credenciales .json en la carpeta `auth` y escribir el nombre del archivo en `auth/client.json`.
+Colocar el archivo con las credenciales .json en la carpeta `auth` y escribir el nombre del archivo en `app.js` en la propiedad `keyFilePath`.
 ```sh
 const config = {
   auth: {
