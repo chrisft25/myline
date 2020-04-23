@@ -1,5 +1,11 @@
 # MyLine
 
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=chrisft25_myline&metric=alert_status)](https://sonarcloud.io/dashboard?id=chrisft25_myline)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=chrisft25_myline&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=chrisft25_myline)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=chrisft25_myline&metric=security_rating)](https://sonarcloud.io/dashboard?id=chrisft25_myline)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=chrisft25_myline&metric=bugs)](https://sonarcloud.io/dashboard?id=chrisft25_myline)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=chrisft25_myline&metric=code_smells)](https://sonarcloud.io/dashboard?id=chrisft25_myline)
+
 MyLine es un proyecto lanzado en Colombia con el objetivo de llevar la inmensa información que se encuentra en internet hacia personas que no poseen smartphones ni acceso a internet, pero sí tienen cobertura celular.
 
   - Demostración del proyecto original: https://www.youtube.com/watch?v=YDGdww-F-HM
