@@ -14,7 +14,7 @@ function Assistant(client) {
   const combinedCreds = grpc.credentials.combineChannelCredentials(sslCreds, callCreds);
 
   return (new EmbeddedAssistantClient(ASSISTANT_API_ENDPOINT, combinedCreds));
-};
+}
 
 util.inherits(Assistant, EventEmitter);
 module.exports = Assistant;
