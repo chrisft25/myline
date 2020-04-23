@@ -95,7 +95,7 @@ function Auth(config) {
   });
 
   return this;
-};
+}
 
 util.inherits(Auth, EventEmitter);
 module.exports = Auth;
