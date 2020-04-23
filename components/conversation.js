@@ -226,7 +226,7 @@ function Conversation(assistant, config) {
   };
 
   return this;
-};
+}
 
 util.inherits(Conversation, EventEmitter);
 module.exports = Conversation;
