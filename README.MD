@@ -6,15 +6,22 @@
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=chrisft25_myline&metric=bugs)](https://sonarcloud.io/dashboard?id=chrisft25_myline)
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=chrisft25_myline&metric=code_smells)](https://sonarcloud.io/dashboard?id=chrisft25_myline)
 
+Este proyecto es un prototipo basado en la idea de MyLine.
+
 MyLine es un proyecto lanzado en Colombia con el objetivo de llevar la inmensa información que se encuentra en internet hacia personas que no poseen smartphones ni acceso a internet, pero sí tienen cobertura celular.
 
   - Demostración del proyecto original: https://www.youtube.com/watch?v=YDGdww-F-HM
+
+### Librerías utilizadas:
+
+  - Express. [Enlace](https://expressjs.com/es/)
+  - Google Assistant SDK para Node.js [Repositorio](https://github.com/endoplasmic/google-assistant)
 
 ### Requisitos:
 
   - Node.js.
   - NPM.
-  - Credenciales de acceso para Google Assistant API. Instrucciones: [Instrucciones](https://developers.google.com/assistant/sdk/guides/service/python/embed/config-dev-project-and-account)。
+  - Credenciales de acceso para Google Assistant API. [Instrucciones](https://developers.google.com/assistant/sdk/guides/service/python/embed/config-dev-project-and-account)。
   - Cuenta en Twilio con un número teléfonico activo.
 
 ### Primeros pasos:
