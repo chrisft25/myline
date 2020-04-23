@@ -20,7 +20,6 @@ function Auth(config) {
 
   if (config.savedTokensPath === undefined) {
     throw new Error('Missing "savedTokensPath" from config (this is where your OAuth2 access tokens will be saved)');
-    return;
   }
 
   const keyData = require(config.keyFilePath);
