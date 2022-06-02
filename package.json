@@ -22,7 +22,7 @@
     "grpc": "^1.24.2",
     "mkdirp": "^0.5.1",
     "open": "^6.4.0",
-    "protobufjs": "^6.8.8"
+    "protobufjs": "^6.11.3"
   },
   "devDependencies": {
     "express": "^4.17.1",
